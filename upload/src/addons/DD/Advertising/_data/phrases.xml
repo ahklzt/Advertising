@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="option.dd_advertising_templace" version_id="1000070" version_string="1.0.0"><![CDATA[template content]]></phrase>
+  <phrase title="option_explain.dd_advertising_templace" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_group.dd_advertising" version_id="1000070" version_string="1.0.0"><![CDATA[[DD] Advertising]]></phrase>
+  <phrase title="option_group_description.dd_advertising" version_id="1000070" version_string="1.0.0"><![CDATA[Advertising page for your project]]></phrase>
+</phrases>
